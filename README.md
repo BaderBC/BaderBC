@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi<br>I am a junior Backend Developer (node.js)<br>I am currently working on BadClup-DNS<br>My goal is to find an internship (even unpaid)<br><br>Contact:<br>kontakt@bstrama.com
+Hi<br>I am a junior Backend Developer (node.js)<br>I am currently working on 'Muj Elektryk' social media project<br>My goal is to find an internship (even unpaid)<br><br>Contact:<br>kontakt@bstrama.com
 
 
 ## 🌐 Socials:
