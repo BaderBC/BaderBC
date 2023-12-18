@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi<br>I am a junior Backend Developer (node.js)<br>I am currently working on 'Muj Elektryk' social media project<br>My goal is to find an internship (even unpaid)
+Hi, my name is Bartłomiej Strama<br>
+I like Backend Development<br>
+I am currently working on <a href="https://github.com/Nasz-Elektryk/spito">SPITO</a> - configuration manager<br>
+My goal is to find an internship to increase my skills.
 
 
 ## 🌐 Socials:
