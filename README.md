@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, my name is Bartłomiej Strama<br>
 I like Backend Development<br>
-I am currently working on <a href="https://github.com/Nasz-Elektryk/spito">SPITO</a> - configuration manager<br>
+I am currently working on <a href="https://github.com/Avorty/spito">SPITO</a> - configuration manager<br>
 My goal is to find an internship to increase my skills.
 
 
